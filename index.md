@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "CKY Blog"
   text: "Base VitePress Site"
-  tagline: Only by never forgetting your original intention can you always succeed
+  tagline: 欢迎来到陈老板的博客
  
 
 features:
