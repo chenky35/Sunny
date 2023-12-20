@@ -36,7 +36,7 @@ export default defineConfig({
         },
         link: "https://juejin.cn/user/4054654613726295",
       },
-      { icon: "github", link: "https://github.com/Naparte/verce-blog" },
+      { icon: "github", link: "https://github.com/chenky35/Sunny" },
     ],
 
     // footer: {
